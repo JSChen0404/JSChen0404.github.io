@@ -1,2 +1,2 @@
-# JSChen0404.github.io.
+# JSChen0404.github.io
 Personal portfolio
